@@ -696,3 +696,4 @@ public class TileEntityMachineArcFurnaceLarge extends TileEntityMachineBase impl
 	}
 
 }
+
